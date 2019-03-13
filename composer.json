@@ -1,5 +1,5 @@
 {
-    "name": "swiftmailer",
+    "name": "Wine2019/swiftmailer",
     "type": "library",
     "description": "Swiftmailer, free feature-rich PHP mailer",
     "keywords": ["mail","mailer","email"],
