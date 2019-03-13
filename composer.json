@@ -22,11 +22,11 @@
         "symfony/phpunit-bridge": "~3.2"
     },
     "autoload": {
-        "files": ["swiftmailer/lib/swift_required.php"]
+        "files": ["lib/swift_required.php"]
     },
     "autoload-dev": {
         "psr-0": {
-            "Swift_": "swiftmailer/tests/unit"
+            "Swift_": "tests/unit"
         }
     },
     "extra": {
